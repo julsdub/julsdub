@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @julsdub
 - 👀 I’m interested in electronics, arduino, computers, Analog Synth, woodworking and making things with hands
-- 🌱 I’m currently learning electronics, analog synth and arduino
+- 🌱 I’m currently learning, electronics, developing, analog synth and arduino
 - 📫 How to reach me:  
       ig: @allerwoodworks
+          @julsdub
 
 
 <!---
