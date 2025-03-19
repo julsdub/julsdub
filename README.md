@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning, cybersecurity and phyton
 - 📫 How to reach me:  
       ig: @allerwoodworks
-          @julsdub
 
 
 <!---
